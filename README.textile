@@ -1,0 +1,3 @@
+h1. sqlite-hash
+
+SQLite backed ruby hash table
